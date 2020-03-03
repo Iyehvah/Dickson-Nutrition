@@ -4,6 +4,7 @@
   margin: 0;
   list-style: none;
   box-sizing: border-box;
+  font-size: 62.5%;
 }
 
 .App {
@@ -22,7 +23,7 @@
 .tags {
   color: white;
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 2rem;
   padding-bottom: 5px;
 }
 .flextags{
@@ -39,9 +40,11 @@
   color: white;
   margin: 0;
   padding: 1%;
+  font-size: 4rem;
 }
 .navNutrition{
   color: #FC600A;
+  font-size: 4rem;
 }
 
 .heroSection {
@@ -50,7 +53,6 @@
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  width: 80%;
   height: 70vh;
   position: relative;
   display: flex;
@@ -74,7 +76,7 @@
 
 .heroSection .title{ 
   font-family: 'Montserrat', sans-serif;
-  font-size: calc(1.8rem + 1vw);
+  font-size: calc(3rem + 1vw);
   color: white;
   width: 100%;
   padding: 0;
@@ -83,7 +85,7 @@
 
 .heroSection .text {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.1rem;
+  font-size: 2rem;
   color: white;
   letter-spacing: 1px;
   line-height: 25px;
@@ -95,7 +97,7 @@
   padding: 10px;
   border-radius: 20px;
   width: 200px;
-  font-size: 1.3rem;
+  font-size: 2rem;
   border: 1px solid white;
   text-align: center;
 }
@@ -111,10 +113,12 @@
 .Intro h2 {
   color: #FC600A;
   padding-bottom: 15px;
+  font-size: 3rem;
 }
 .Intro p {
   font-family: 'Montserrat', sans-serif;
   line-height: 22px;
+  font-size: 2rem;
 }
 
 .section1 {
@@ -130,6 +134,7 @@
   padding: 0 0 40px;
   justify-content: space-between;
   border-bottom: 1px solid black;
+  font-size: 4rem;
 }
 
 .block1Info {
@@ -138,7 +143,7 @@
 
 .block1Info h3 {
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 4rem;
   width: 100%;
   color: #FC600A;
   letter-spacing: 2px;
@@ -171,6 +176,7 @@
   border: 1px solid #FC600A;
   border-radius: 20px;
   padding: 5px;
+  font-size: 2rem;
 }
 
 /* Photo editing */
@@ -201,6 +207,7 @@
   border-top: 3px solid rgb(248, 89, 3);
   font-family: 'Montserrat', sans-serif;
   margin-top: 50px;
+  font-size: 4rem;
 }
 .Footer-overlay{
   width: 100%;
@@ -226,15 +233,26 @@
 .Footer-socials{
   text-align: center;
   margin-left: 5%;
+  font-size: 2rem;
 }
 
 /* CONTACT PAGE CSS*/
-
+.c-title {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 5%;
+}
 
 .contact-us {
   border-top: 1px solid black;
   padding-top: 5%;
   margin-top:5%;
+  font-size: 6rem;
+  text-align: left;
+
+}
+.b-hours{
+  font-size: 2.3rem;
 }
 .googlemaps {
   width: 100%;
@@ -244,6 +262,13 @@
   align-items: center;
   padding: 5%;
   padding-top: 0;
+  font-size: 4rem;
+}
+.googlemaps h1 {
+  font-size: 3rem;
+  padding: 2%;
+  margin-bottom: 2%;
+  color: #FC600A;
 }
 
 .googlemaps img {
@@ -261,19 +286,22 @@
 }
 .want-to-know-more{
   font-family: 'Montserrat', sans-serif;
+  padding: 1%;
 }
 .contact-intro {
-  width: 70%;
+  width: 80%;
   padding: 10px;
   padding-bottom: 5%;  
-  margin: 2%;
   text-align: center;
-  margin: 5% auto;
+  margin: 0% auto;
   border-bottom: 1px solid black;
+  font-size: 3rem;
 }
 
-.contact-intro h2 {
+.contact-intro h1 {
   padding: 2%;
+  font-size: 3rem;
+  color: #FC600A;
 }
 .contact-intro p{
   text-align: left;
