@@ -200,6 +200,7 @@
   padding-bottom: 1%;
   border-top: 3px solid rgb(248, 89, 3);
   font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
 }
 .Footer-overlay{
   width: 100%;
@@ -225,6 +226,63 @@
 .Footer-socials{
   text-align: center;
   margin-left: 5%;
+}
+
+/* CONTACT PAGE CSS*/
+
+
+.contact-us {
+  border-top: 1px solid black;
+  padding-top: 5%;
+  margin-top:5%;
+}
+.googlemaps {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+  padding-top: 0;
+}
+
+.googlemaps img {
+  width: 60%;
+}
+
+.contact-flex{
+  padding: 10px;
+}
+.contact-flex h2 {
+  padding: 2%;
+}
+.contact-flex p {
+  text-align: left;
+}
+.want-to-know-more{
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-intro {
+  width: 70%;
+  padding: 10px;
+  padding-bottom: 5%;  
+  margin: 2%;
+  text-align: center;
+  margin: 5% auto;
+  border-bottom: 1px solid black;
+}
+
+.contact-intro h2 {
+  padding: 2%;
+}
+.contact-intro p{
+  text-align: left;
+  padding-bottom: 2%;
+}
+.contact-container p {
+  font-family: 'Montserrat', sans-serif;
+  width: 60%;
+  margin: 0 auto;
 }
 
 
