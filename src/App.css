@@ -115,11 +115,11 @@
 }
 
 .Intro {
-  padding-top: 5%;
+  padding-top: 2%;
   max-width: 70%;
   margin: 0 auto;
   padding-bottom: 5%;
-  border-bottom: 3px solid black;
+  /* border-bottom: 3px solid black; */
 }
 
 .Intro h2 {
@@ -149,7 +149,7 @@
   margin: 50px auto;
   padding: 0 0 40px;
   justify-content: space-between;
-  border-bottom: 1px solid black;
+  /* border-bottom: 1px solid black; */
   font-size: 4rem;
 }
 
@@ -206,11 +206,10 @@
  margin-bottom: 20px;
  margin-top: 20px;
 }
-.suanaPhoto {
-  width: 180px;
-  height: 230px;
-  margin-bottom: 20px;
-  margin-top: 20px;
+
+.knowmore {
+  font-size: 9rem;
+  margin: 0 auto;
 }
 
 .Footer{
