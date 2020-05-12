@@ -23,7 +23,7 @@ const Home = () => {
                 <p>In todays world we rely to heavily on modern medicine in order to knock off the physical and emotional pain our bodies experience. This reliance comes with a number of drawbacks that easily outweigh the positives, such as addiction and the overall wellness of the body. Here at Dickson Nutrition we utilize vitamins and other methods to not only take the pain away but also put that spark back into life.</p>
             </div>
             <section className="section1">
-                <h2>A glimpse at what we offer</h2>
+                {/* <h2>A glimpse at what we offer</h2> */}
                 <div className="block1">
                     <div className="block1Info">
                         <h3>Massage Therapy</h3>
@@ -45,9 +45,9 @@ const Home = () => {
                         <div><Link to="/services" className="block-btn">Learn More</Link></div>
                     </div>
                 </div>
-                <div className="knowmore">
+                {/* <div className="knowmore">
                     <h2>Want to see more? Visit our <a>Services</a> section here!</h2>
-                </div>
+                </div> */}
             </section>
         </div>
 
