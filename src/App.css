@@ -49,6 +49,7 @@
 }
 
 .heroSection {
+  max-width: 98%;
   margin: 50px auto;
   background: url("./imgs//river.jpg");
   background-attachment: fixed;
@@ -77,29 +78,29 @@
 
 .heroSection .title{ 
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 4.5rem;
   color: white;
   max-width: 100%;
   padding: 0;
-  margin: 11% 0 40px 0;
+  margin: 15% 0 40px 0;
 }
 .heroSection .healing {
-  font-size: 2.5rem;
+  font-size: 4.6rem;
   font-weight: bold;
   color: orangered;
 }
 .heroSection .relaxation {
-  font-size: 2.5rem;
+  font-size: 4.6rem;
   font-weight: bold;
   color: orangered;
 }
 
 .heroSection .text {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
   color: white;
   letter-spacing: 1px;
-  line-height: 25px;
+  line-height: 45px;
   margin-bottom: 3%;
 }
 
@@ -124,12 +125,16 @@
 .Intro h2 {
   color: #FC600A;
   padding-bottom: 15px;
-  font-size: 3rem;
+  font-size: 4rem;
 }
 .Intro p {
   font-family: 'Montserrat', sans-serif;
-  line-height: 22px;
-  font-size: 2rem;
+  line-height: 30px;
+  font-size: 2.2rem;
+  text-align: left;
+  padding: 1%;
+  width: 74%;
+  margin: 0 auto;
 }
 
 .section1 {
@@ -165,9 +170,10 @@
 .block-p {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
   color: black;
   letter-spacing: 1px;
-  line-height: 22px;
+  line-height: 30px;
   padding-right: 30px;
 }
 
@@ -193,8 +199,7 @@
 /* Photo editing */
 .massagePhoto {
   width: 100%;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: 40px;
 }
 .reflexPhoto{
  width: 100%;

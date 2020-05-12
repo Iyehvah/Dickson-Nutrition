@@ -44,17 +44,6 @@ const Home = () => {
                         <div><Link to="/services" className="block-btn">Learn More</Link></div>
                     </div>
                 </div>
-                <div className="block1">
-                    <div className="block1Info">
-                        <h3>Infrared Suana</h3>
-                        <p className="block-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis orci justo, ac ultrices purus consequat in. Vivamus hendrerit volutpat sem, at mollis eros venenatis tempus. Aliquam mattis tincidunt dictum. Proin tempor lorem sed feugiat interdum. Integer lorem elit, varius id augue ut, auctor porttitor eros. Nullam volutpat est lectus, eu congue ex posuere sit amet.</p>
-                    </div>
-                    <div className="block1-img-container">
-                        <img className="suanaPhoto" src={suana} />
-                        <div><Link to="/services" className="block-btn">Learn More</Link></div>
-                        
-                    </div>
-                </div>
             </section>
         </div>
 
