@@ -11,10 +11,9 @@ const Home = () => {
             <div className="heroSection">
                 <div className="heroOverlay">
                     <div className="heroSectionContentContainer">
-                        <h1 className="title">A place where healing and relaxation begins</h1>
+                        <h1 className="title">A place where <span className="healing">healing</span> and <span className="relaxation">relaxation</span> begins</h1>
                         <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sem ipsum, gravida sed augue eu, iaculis pharetra lectus. Morbi viverra lobortis leo, id porttitor turpis pellentesque sit amet.</p>
                         <div className="callToActionContainer">
-                            <Link className="callToAction" to="/about">Learn More</Link>
                         </div>
                     </div>
                 </div>
