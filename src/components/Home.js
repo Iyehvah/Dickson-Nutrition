@@ -44,10 +44,10 @@ const Home = () => {
                         <img className="reflexPhoto" src={reflexology} />
                         <div><Link to="/services" className="block-btn">Learn More</Link></div>
                     </div>
+                    <div className="goToServicesDiv">
+                        <p>If you would like to see ALL that we offer please visit our <Link to="/services" className="goToServices">Services</Link>.</p>
+                    </div>
                 </div>
-                {/* <div className="knowmore">
-                    <h2>Want to see more? Visit our <a>Services</a> section here!</h2>
-                </div> */}
             </section>
         </div>
 

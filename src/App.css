@@ -119,7 +119,7 @@
   max-width: 70%;
   margin: 0 auto;
   padding-bottom: 5%;
-  /* border-bottom: 3px solid black; */
+  border-bottom: 3px solid black;
 }
 
 .Intro h2 {
@@ -210,6 +210,21 @@
 .knowmore {
   font-size: 9rem;
   margin: 0 auto;
+}
+
+.goToServicesDiv{
+  padding-top: 10%;
+  max-width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+}
+.goToServicesDiv p {
+  font-size: 2.9rem;
+}
+.goToServices{
+  text-decoration: none;
+  color: orangered;
+  font-size: 2.2rem;
 }
 
 .Footer{
