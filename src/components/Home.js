@@ -2,7 +2,6 @@ import React from "react"
 import {Link} from "react-router-dom"
 import img1  from "../imgs/image1.jpg"
 import reflexology from "../imgs/reflexology1.jpg"
-import suana from "../imgs/suana.jpg"
 
 const Home = () => {
     return (

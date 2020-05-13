@@ -15,10 +15,10 @@ function Footer(){
             <div className="footerfindus"><h3>Social Platforms</h3>
                 <p>Find us on these platforms</p>
                 <h5>Facebook
-                    <a href="https://www.facebook.com/DicksonNutrition" className="socials"><FontAwesomeIcon icon={faFacebook}></FontAwesomeIcon></a>
+                    <a href="https://www.facebook.com/DicksonNutrition" target="_blank" className="socials"><FontAwesomeIcon icon={faFacebook}></FontAwesomeIcon></a>
                 </h5>
                 <h5>Instagram
-                <a href="https://www.facebook.com/DicksonNutrition" className="socials"><FontAwesomeIcon icon={faInstagram}></FontAwesomeIcon></a>
+                <a href="https://www.instagram.com/dicksonnutrition/?hl=en" target="_blank" className="socials"><FontAwesomeIcon icon={faInstagram}></FontAwesomeIcon></a>
                 </h5>
             </div>
         </div>
