@@ -44,7 +44,7 @@ const Home = () => {
                         <div><Link to="/services" className="block-btn">Learn More</Link></div>
                     </div>
                     <div className="goToServicesDiv">
-                        <p>If you would like to see ALL that we offer please visit our <Link to="/services" className="goToServices">Services</Link>.</p>
+                        <p>If you would like to see ALL that we offer please visit our <Link to="/services" className="goToServices">Services</Link> tab</p>
                     </div>
                 </div>
             </section>
