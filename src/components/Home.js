@@ -19,7 +19,7 @@ const Home = () => {
             </div>
             <div className="Intro">
                 <h2>Okay so what's the big deal?</h2>
-                <p>In todays world we rely to heavily on modern medicine in order to knock off the physical and emotional pain our bodies experience. This reliance comes with a number of drawbacks that easily outweigh the positives, such as addiction and the overall wellness of the body. Here at Dickson Nutrition we utilize vitamins and other methods to not only take the pain away but also put that spark back into life.</p>
+               <p>In today's world, we rely to heavily on modern medicine in order to brush off the physical and emotional pains our bodies experience. This reliance comes with a number of drawbacks that easily outweigh the positives, such as addictions and the overall unhealthiness of the body. The team at Dickson Nutrition utilizes vitamins and other methods to not only take the pain away, but also put that spark back into your life.</p>
             </div>
             <section className="section1">
                 {/* <h2>A glimpse at what we offer</h2> */}

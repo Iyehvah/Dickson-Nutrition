@@ -246,13 +246,13 @@
   padding-left: 5%;
 }
 .stayConnected h3 {
-  font-size: 4rem;
+  font-size: 2.3rem;
   padding-bottom: 1%;
 }
 .stayConnected p {
   padding-left: 2%;
   width: 80%;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .stayConnected form {
   margin: 0 auto;
@@ -260,7 +260,6 @@
 }
 .stayConnected{
   width: 30%;
-  font-size: 3rem;
   text-align: left;
   padding-left: 5%;
   padding-top: 2%;
