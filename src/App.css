@@ -9,7 +9,7 @@
 
 .App {
   text-align: center;
-  /* font-family: 'lobster', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 .navigation {
@@ -51,7 +51,7 @@
 .heroSection {
   max-width: 98%;
   margin: 50px auto;
-  background: url("./imgs//river.jpg");
+  background: url("./imgs//blurredriver.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
